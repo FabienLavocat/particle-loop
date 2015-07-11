@@ -1,0 +1,7 @@
+{
+  "name": "particle-loop",
+  "author": "Fabien Lavocat <fabien.lavocat@live.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A simple library to help writing loops for a Particle Photon"
+}
